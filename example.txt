@@ -1,4 +1,0 @@
-{
-  "name": "fdsa",
-  "email": "dasf"
-}
